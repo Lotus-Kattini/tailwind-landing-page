@@ -5,7 +5,7 @@ function Productivity() {
         <div className="grid grid-cols-1 md:grid-cols-2 text-white gap-12 mx-auto mt-8 place-items-center">
           <div className="w-[550px] max-w-full">
             <img
-              src="../../src/assets/illustration-stay-productive.png"
+              src="/assets/illustration-stay-productive.png"
               alt="productive img"
               className="w-full h-fit"
             />
