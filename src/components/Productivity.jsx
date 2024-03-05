@@ -28,7 +28,7 @@ function Productivity() {
             </div>
             <a href="/" className="flex items-center w-fit gap-1  text-[#67dbda] hover:text-[#42b0d1] transition-all duration-200 border-b border-[#67dbda] border-solid pb-2">
                 See how Floyer works
-                <img src="../../src/assets/icon-arrow.svg" alt="arrow" className="object-contain animate-[movRight_1s_infinite_ease-in-out]"/>
+                <img src="/assets/icon-arrow.svg" alt="arrow" className="object-contain animate-[movRight_1s_infinite_ease-in-out]"/>
             </a>
           </div>
         </div>

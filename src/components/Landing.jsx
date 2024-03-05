@@ -4,7 +4,7 @@ function Landing() {
       <div className="container ">
         <div className="element-center flex-col mx-auto pt-52">
         <div className="w-[750px] max-w-full">
-          <img src="../../src/assets/illustration-intro.png" alt="landing-img" className="w-full h-fit"/>
+          <img src="/assets/illustration-intro.png" alt="landing-img" className="w-full h-fit"/>
         </div>
         <div className="text-white text-center">
           <h1 className="text-[1rem] md:text-[1.3rem] font-semibold mb-4">
@@ -23,7 +23,7 @@ function Landing() {
         </div>
       </div>
       <div className="w-full h-[8rem] sm:h-[13rem]">
-        <img className="w-full h-full" src="../../src/assets/bg-curvy-desktop.svg" alt="curve" />
+        <img className="w-full h-full" src="/assets/bg-curvy-desktop.svg" alt="curve" />
       </div>
     </section>
   );
