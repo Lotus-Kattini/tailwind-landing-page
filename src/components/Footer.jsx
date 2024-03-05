@@ -10,20 +10,20 @@ function Footer() {
           <div className="flex w-full flex-col md:flex-row items-center justify-between mt-[10rem] gap-[2rem]">
           <div className="w-[20rem] max-w-full">
           <a href="#">
-            <img src="/src/assets/logo.svg" alt="logo" />
+            <img src="../../src/assets/logo.svg" alt="logo" />
           </a>
           <div className="flex items-start gap-[1.2rem] mt-4">
-          <img src="/src/assets/icon-location.svg"/>
+          <img src="../../src/assets/icon-location.svg"/>
           <p > Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, illum error cum quae distinctio molestias! Reiciendis officiis incidunt eum voluptatibus animi</p>
           </div>
           </div>
           <div className="w-[20rem] max-w-full">
             <div className="flex items-start gap-[1.2rem] mt-4">
-            <img src="/src/assets/icon-phone.svg"/>
+            <img src="../../src/assets/icon-phone.svg"/>
             <p>+058458968</p>
             </div>
             <div className="flex items-start gap-[1.2rem] mt-4">
-            <img src="/src/assets/icon-email.svg"/>
+            <img src="../../src/assets/icon-email.svg"/>
             <p>example@gmail.com</p>
             </div>  
           </div>
